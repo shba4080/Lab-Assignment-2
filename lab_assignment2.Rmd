@@ -12,7 +12,7 @@ Team Goal: To learn how to effectively collaborate using github and rstudio.
 About Me
 
 Shreeya Basrur
-image:[](shreeya1.jpeg)
+image:![](shreeya1.jpeg)
 I found the database of all the last words for texas's death row from 1980 to today. My question is how positive or negative are most people's last words?
 
 6 months after graduation I would like to be either working or in grad school. The ideal would be that I would move out of colorado and experience other parts of the country. I would want to be some sort of programmer or data person ideally. After 5 years I would want to work at company that is a chill place to work. 
@@ -23,6 +23,7 @@ I want to learn R, of course, and how to work with data to make conclusions. I a
 
 Miscellaneous stuff about me: I work for the environmental center on the eco-social justice team  and as an applied math learning assistant which are both jobs that I love. I also play the violin in the campus orchestra. 
 
+ok
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
