@@ -27,3 +27,10 @@ Miscellaneous stuff about me: I work for the environmental center on the eco-soc
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+image:![](Kelsey-24.jpg)
+
+Question 1: How can we best condense large scaled data to eliminate outliers? 
+Question 2: In six months I am eager to be in Africa with the peace corps teaching math to middle and high schoolers. In five years, I want to be in graduate school studying something that I am passionate about. 
+Question 3: I hope my greatest career accomplishment will be one that I will never see or that I have made an enormous impact on someone. I am hoping to pursue a field that allows me to help and work with others. 
+
+I used to be in the circus as a child!
