@@ -78,7 +78,7 @@ Miscellaneous stuff about me: I work for the environmental center on the eco-soc
 
 James Burke 
 image:![](Jamesb.jpeg) 
-I would like to know how effective tutoring truly is because there is a lot of bais involved.
+I would like to know how effective tutoring truly is because there is a lot of bias involved.
  
 6 months after graduation I would like to get a job analyzing big data and creating algorithms to based on that analysis.
  
@@ -88,6 +88,8 @@ I would like to get a solid base of statistics and R knowledge that would help m
  
 Miscellaneous stuff about me: I am a big european sports fan and support the Glasgow Celtic, which is my dad's hometown team growing up.
 
+Feedback: 
+Shreeya: You could number your questions to be more clear so Dr. Vance can grade easier. 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -99,12 +101,16 @@ Question 2: In six months I am eager to be in Africa with the peace corps teachi
 Question 3: I hope my greatest career accomplishment will be one that I will never see or that I have made an enormous impact on someone. I am hoping to pursue a field that allows me to help and work with others. 
 
 I used to be in the circus as a child!
+Feedback:
+Shreeya: You could elaborate more about your fun fact so we can learn more about you. For example, what did you do in the circus?
 
 Matthew Copeland
-image:[](IMG_0003.JPG)
+image:![](IMG_0003.JPG)
 
 Q1: What really came first the Chicken or the egg?
 Q2: Six months after graduating I wish to be going back to Alaska to discover what I want to do. Then after five years hopefully I find a job that I enjoy doing and can make a living.
 Q3: I hope my greatest career accomplishment would to have lion statues at the beginning of my driveway. And through this course I hope to learn key skills to make me stand out in the workforce. 
 -In Moab, Utah I almost died going 4x4 driving in the canyon. 
+Feedback:
+Shreeya: I think you could also elaborate on your fun fact so we can learn more about you. I want to hear more of this story. 
 >>>>>>> master
