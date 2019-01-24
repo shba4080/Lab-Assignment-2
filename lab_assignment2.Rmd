@@ -7,13 +7,13 @@ output: html_document
 ---
 
 Team Lil Rascals
-image:![](teampic.jpeg)
+![](teampic.jpeg)
 Team Goal: To learn how to effectively collaborate using github and rstudio.
 
 About Me
 
 Shreeya Basrur
-image:![](shreeya1.jpeg)
+![](shreeya1.jpeg)
 I found the database of all the last words for texas's death row from 1980 to today. My question is how positive or negative are most people's last words?
 
 6 months after graduation I would like to be either working or in grad school. The ideal would be that I would move out of colorado and experience other parts of the country. I would want to be some sort of programmer or data person ideally. After 5 years I would want to work at company that is a chill place to work. 
@@ -30,7 +30,7 @@ James: Your section is very clear and specific especially with the non-statistic
 
 
 James Burke 
-image:![](Jamesb.jpeg) 
+![](Jamesb.jpeg) 
 I would like to know how effective tutoring truly is because there is a lot of bias involved.
  
 6 months after graduation I would like to get a job analyzing big data and creating algorithms to based on that analysis.
@@ -46,7 +46,8 @@ Shreeya: You could number your questions to be more clear so Dr. Vance can grade
 Kelsey: I think your intentions for this class are good. I think numbering the questions would help organize it also!
 
 
-image:![](Kelsey-24.jpg)
+Kelsey McKenna
+![](Kelsey-24.jpg)
 
 Question 1: How can we best condense large scaled data to eliminate outliers? 
 Question 2: In six months I am eager to be in Africa with the peace corps teaching math to middle and high schoolers. In five years, I want to be in graduate school studying something that I am passionate about. 
@@ -58,8 +59,9 @@ Feedback:
 Shreeya: You could elaborate more about your fun fact so we can learn more about you. For example, what did you do in the circus?
 James: Your section is very clear and its really cool you were in the circus as a child. I like how you numbered the questions so it is obvious what question you are answering. You could add a more specific or less statistics related problem for the first question because it is supposed to be a non-statistics question.
 
+
 Matthew Copeland
-image:![](IMG_0003.JPG)
+![](IMG_0003.JPG)
 
 Q1: What really came first the Chicken or the egg?
 Q2: Six months after graduating I wish to be going back to Alaska to discover what I want to do. Then after five years hopefully I find a job that I enjoy doing and can make a living.
