@@ -52,7 +52,7 @@ Question 3: I hope my greatest career accomplishment will be one that I will nev
 I used to be in the circus as a child!
 
 Matthew Copeland
-image:[](IMG_0003.JPG)
+image:![](IMG_0003.JPG)
 
 Q1: What really came first the Chicken or the egg?
 Q2: Six months after graduating I wish to be going back to Alaska to discover what I want to do. Then after five years hopefully I find a job that I enjoy doing and can make a living.
