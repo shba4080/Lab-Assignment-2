@@ -9,13 +9,13 @@ output: html_document
 ---
 
 Team Lil Rascals
-image:[](teampic.jpeg)
+image:![](teampic.jpeg)
 Team Goal: To learn how to effectively collaborate using github and rstudio.
 
 About Me
 
 Shreeya Basrur
-image:[](shreeya1.jpeg)
+image:![](shreeya1.jpeg)
 I found the database of all the last words for texas's death row from 1980 to today. My question is how positive or negative are most people's last words?
 
 6 months after graduation I would like to be either working or in grad school. The ideal would be that I would move out of colorado and experience other parts of the country. I would want to be some sort of programmer or data person ideally. After 5 years I would want to work at company that is a chill place to work. 
@@ -28,7 +28,7 @@ Miscellaneous stuff about me: I work for the environmental center on the eco-soc
 
 
 James Burke 
-image:[](Jamesb.jpeg) 
+image:![](Jamesb.jpeg) 
 I would like to know how effective tutoring truly is because there is a lot of bais involved.
  
 6 months after graduation I would like to get a job analyzing big data and creating algorithms to based on that analysis.
