@@ -1,5 +1,3 @@
-
-
 =======
 ---
 title: "Lab Assignment 2"
@@ -26,7 +24,10 @@ I want to learn R, of course, and how to work with data to make conclusions. I a
 
 Miscellaneous stuff about me: I work for the environmental center on the eco-social justice team  and as an applied math learning assistant which are both jobs that I love. I also play the violin in the campus orchestra. 
 
-Feedback: Kelsey: I loved how thorough and long your answers were. You really went into details. I don't really have anything negative or constructive to add. 
+Feedback: 
+Kelsey: I loved how thorough and long your answers were. You really went into details. I don't really have anything negative or constructive to add. 
+James: Your section is very clear and specific especially with the non-statistic realated problem. I don't think you really need to change anything but if you wanted, you could number the questions. You could also give an example for the career achievement question even if it is general.
+
 
 James Burke 
 image:![](Jamesb.jpeg) 
@@ -43,9 +44,7 @@ Miscellaneous stuff about me: I am a big european sports fan and support the Gla
 Feedback: 
 Shreeya: You could number your questions to be more clear so Dr. Vance can grade easier. 
 Kelsey: I think your intentions for this class are good. I think numbering the questions would help organize it also!
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 image:![](Kelsey-24.jpg)
 
@@ -54,8 +53,10 @@ Question 2: In six months I am eager to be in Africa with the peace corps teachi
 Question 3: I hope my greatest career accomplishment will be one that I will never see or that I have made an enormous impact on someone. I am hoping to pursue a field that allows me to help and work with others. 
 
 I used to be in the circus as a child!
+
 Feedback:
 Shreeya: You could elaborate more about your fun fact so we can learn more about you. For example, what did you do in the circus?
+James: Your section is very clear and its really cool you were in the circus as a child. I like how you numbered the questions so it is obvious what question you are answering. You could add a more specific or less statistics related problem for the first question because it is supposed to be a non-statistics question.
 
 Matthew Copeland
 image:![](IMG_0003.JPG)
@@ -67,6 +68,12 @@ Q3: I hope my greatest career accomplishment would to have lion statues at the b
 Feedback:
 Shreeya: I think you could also elaborate on your fun fact so we can learn more about you. I want to hear more of this story. 
 Kelsey: I think your first question is funny! I can't believe you almost died. Your work looks good and I enjoyed learning about you.
+James: Your section is very clear and I like how you numbered the questions so it is obvious what question you are answering. I don't think you need to change anything your answers all work and are very specific.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 >>>>>>> master
 
 =======
