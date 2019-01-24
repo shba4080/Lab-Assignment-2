@@ -23,6 +23,19 @@ I want to learn R, of course, and how to work with data to make conclusions. I a
 
 Miscellaneous stuff about me: I work for the environmental center on the eco-social justice team  and as an applied math learning assistant which are both jobs that I love. I also play the violin in the campus orchestra. 
 
+
+James Burke 
+image:[](Jamesb.jpeg) 
+I would like to know how effective tutoring truly is because there is a lot of bais involved.
+ 
+6 months after graduation I would like to get a job analyzing big data and creating algorithms to based on that analysis.
+ 
+I'm not exactly sure what I hope my greatest career achievement would be but most likely helping to make some sort of process related to the tech industry more efficient and or affect.
+ 
+I would like to get a solid base of statistics and R knowledge that would help me analyze data.
+ 
+Miscellaneous stuff about me: I am a big european sports fan and support the Glasgow Celtic, which is my dad's hometown team growing up.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
