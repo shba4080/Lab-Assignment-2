@@ -157,9 +157,6 @@ I would like to get a solid base of statistics and R knowledge that would help m
  
 Miscellaneous stuff about me: I am a big european sports fan and support the Glasgow Celtic, which is my dad's hometown team growing up.
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 image:![](Kelsey-24.jpg)
 
@@ -177,3 +174,7 @@ Q2: Six months after graduating I wish to be going back to Alaska to discover wh
 Q3: I hope my greatest career accomplishment would to have lion statues at the beginning of my driveway. And through this course I hope to learn key skills to make me stand out in the workforce. 
 -In Moab, Utah I almost died going 4x4 driving in the canyon. 
 >>>>>>> master
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
