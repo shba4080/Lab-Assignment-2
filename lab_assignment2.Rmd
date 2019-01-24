@@ -7,7 +7,7 @@ output: html_document
 ---
 
 Team Lil Rascals
-image:[](teampic.jpeg)
+image:![](teampic.jpeg)
 Team Goal: To learn how to effectively collaborate using github and rstudio.
 
 About Me
@@ -24,7 +24,7 @@ I want to learn R, of course, and how to work with data to make conclusions. I a
 
 Miscellaneous stuff about me: I work for the environmental center on the eco-social justice team  and as an applied math learning assistant which are both jobs that I love. I also play the violin in the campus orchestra. 
 
-ok
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
