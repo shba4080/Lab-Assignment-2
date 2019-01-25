@@ -3,7 +3,7 @@
 title: "Lab Assignment 2"
 author: "Shreeya Basrur"
 date: "January 23, 2019"
-output: html_document
+output: pdf_document
 ---
 
 Team Lil Rascals
@@ -45,7 +45,7 @@ Feedback:
 Shreeya: You could number your questions to be more clear so Dr. Vance can grade easier. 
 Kelsey: I think your intentions for this class are good. I think numbering the questions would help organize it also!
 
-![](Kelsey-24.jpg)
+
 
 Kelsey McKenna
 ![](Kelsey-24.jpg)
